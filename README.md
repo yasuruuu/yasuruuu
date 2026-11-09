@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi there, I'm Yasuru 👋</h1>
 
-<img src="./assets/gradient-underline.svg" width="225" height="7" alt="Gradient underline" />
+<img src="./gradient-underline.svg" width="225" height="7" alt="Gradient underline" />
 
 <p align="left">
 I'm an <strong>Information Systems undergraduate at UCSC 🎓</strong> with a keen interest in Web Development and Data Science 💻📊. I enjoy building for the web, exploring data, and bringing ideas to life through code. Always curious and learning something new — usually with a cup of tea nearby 🍵✨.
@@ -11,7 +11,7 @@ I'm an <strong>Information Systems undergraduate at UCSC 🎓</strong> with a ke
 
 <h2 align="left">🛠️ Technologies &amp; Tools</h2>
 
-<img src="./assets/gradient-underline.svg" width="260" height="7" alt="Gradient underline" />
+<img src="./gradient-underline.svg" width="260" height="7" alt="Gradient underline" />
 
 <br />
 
@@ -40,7 +40,7 @@ I'm an <strong>Information Systems undergraduate at UCSC 🎓</strong> with a ke
 
 <h2 align="left">🌟 Let’s Connect</h2>
 
-<img src="./assets/gradient-underline.svg" width="250" height="7" alt="Gradient underline" />
+<img src="./gradient-underline.svg" width="250" height="7" alt="Gradient underline" />
 
 <p align="left">Let’s share ideas and build something together.</p>
 
@@ -55,7 +55,7 @@ I'm an <strong>Information Systems undergraduate at UCSC 🎓</strong> with a ke
 <hr />
 
 <p align="center">
-<img src="./assets/power-banner.svg" width="100%" alt="POWER pixel banner" />
+<img src="./power-banner.svg" width="100%" alt="POWER pixel banner" />
 </p>
 
 <p align="center">
